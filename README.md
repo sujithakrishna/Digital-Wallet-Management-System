@@ -530,8 +530,6 @@ String password = "your_password";
 
 Replace `your_password` with the password configured for the local MySQL installation.
 
-Do not commit actual database passwords or credentials to GitHub.
-
 ### Step 7: Add MySQL Connector/J
 
 Because this project is a normal Java project rather than a Maven project, the MySQL JDBC driver must be added manually to the Eclipse Build Path.
